@@ -1,4 +1,4 @@
-#Motordesk over wifi
+## Motordesk over wifi
 This a hobby project with the goal of putting a el-motor on a standing desk that is fitted only with a manual crank, and then control over wifi.
 
 
@@ -21,6 +21,8 @@ My standing desk is pretty neat, but would be neater if controllable over wifi. 
 - Barreljack converter 
 - Raspberry Pi 4B
 - Breadboard kit (for testing)
+- 3D printed shaft adapter: motor has D shaped mount, desk has hexagon
+- 3D printed mount and casing (to be printed)
 
 Look at the comp.jpeg photo for the components.
 
